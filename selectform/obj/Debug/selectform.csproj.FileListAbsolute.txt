@@ -1,0 +1,10 @@
+C:\Users\omaro\OneDrive\Desktop\project db\selectform\selectform\obj\Debug\selectform.csproj.AssemblyReference.cache
+C:\Users\omaro\OneDrive\Desktop\project db\selectform\selectform\obj\Debug\selectform.Form1.resources
+C:\Users\omaro\OneDrive\Desktop\project db\selectform\selectform\obj\Debug\selectform.Properties.Resources.resources
+C:\Users\omaro\OneDrive\Desktop\project db\selectform\selectform\obj\Debug\selectform.csproj.GenerateResource.cache
+C:\Users\omaro\OneDrive\Desktop\project db\selectform\selectform\obj\Debug\selectform.csproj.CoreCompileInputs.cache
+C:\Users\omaro\OneDrive\Desktop\project db\selectform\selectform\bin\Debug\selectform.exe.config
+C:\Users\omaro\OneDrive\Desktop\project db\selectform\selectform\bin\Debug\selectform.exe
+C:\Users\omaro\OneDrive\Desktop\project db\selectform\selectform\bin\Debug\selectform.pdb
+C:\Users\omaro\OneDrive\Desktop\project db\selectform\selectform\obj\Debug\selectform.exe
+C:\Users\omaro\OneDrive\Desktop\project db\selectform\selectform\obj\Debug\selectform.pdb
