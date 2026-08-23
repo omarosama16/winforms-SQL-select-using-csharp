@@ -9,7 +9,7 @@ A simple Windows Forms application built with **C#** and **SQL Server** that dem
 -  Connects to a SQL Server database
 -  Displays data using `DataGridView`
 -  Select and view records from a table
--  Simple and beginner-friendly architecture
+-  Simple and beginner-friendly architecture 
 -  Built with Windows Forms (WinForms)
 
 ---
